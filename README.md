@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate AI/ML/DL Geek</h3>
 
-- 🔭 I’m currently working on [Finding "Best" Blackjack Strategy with Natural Selection Approach](https://github.com/Siegbertov/BlackJackStrategyNaturalSelection)
-
-- 📫 How to reach me **siegbertov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
